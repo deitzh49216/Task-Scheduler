@@ -1,0 +1,26 @@
+{
+"name": "task-scheduler-gf45",
+"version": "1.0.0",
+"description": " a web application that allows users to efficiently manage their tasks and schedule their activities. ",
+"main": "index.js",
+"scripts": {},
+"repository": {
+"type": "git",
+"url": "https://github.com/deitzh49216/Task-Scheduler.git"
+},
+"keywords": [
+"sample",
+"npm",
+"package"
+],
+"author": "deitzh49216",
+"license": "MIT",
+"dependencies": {
+"lodash": "^4.17.21",
+"axios": "^0.21.1"
+},
+"peerDependencies": {
+"react": ">=16.8.0",
+"react-dom": ">=16.8.0"
+}
+}
